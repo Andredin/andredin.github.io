@@ -23,7 +23,7 @@ function App() {
       {/* Hero Section */}
       <header className="bg-white shadow-sm">
         <nav className="max-w-6xl mx-auto px-4 py-4 flex justify-between items-center">
-          <h1 className="text-2xl font-bold text-gray-800">André Diniz</h1>
+          <h1 className="text-2xl font-bold text-gray-800">André Martini Diniz</h1>
           <div className="flex gap-4">
             <a 
               href="https://www.linkedin.com/in/andredin/" 
@@ -35,7 +35,7 @@ function App() {
               <Linkedin size={24} />
             </a>
             <a 
-              href="https://github.com/YOUR_GITHUB" 
+              href="https://github.com/Andredin" 
               target="_blank" 
               rel="noopener noreferrer"
               className="text-gray-600 hover:text-gray-900 transition-colors"
@@ -66,7 +66,7 @@ function App() {
             </p>
             <div className="flex gap-4 justify-center flex-wrap">
               <a 
-                href="https://www.fiverr.com/YOUR_FIVERR_USERNAME" 
+                href="https://www.fiverr.com/andrediniz1310" 
                 target="_blank"
                 rel="noopener noreferrer"
                 className="bg-green-500 hover:bg-green-600 text-white px-6 py-3 rounded-lg font-semibold transition-colors inline-flex items-center gap-2"
@@ -87,14 +87,14 @@ function App() {
           <div className="bg-white rounded-xl shadow-lg p-8 max-w-3xl mx-auto">
             <h3 className="text-2xl font-bold text-gray-800 mb-4">About Me</h3>
             <p className="text-gray-700 leading-relaxed mb-4">
-              I'm a full-stack developer with experience building scalable web applications. 
+              I'm a full-stack developer with experience building web applications. 
               My focus is on creating user-friendly interfaces with React and TypeScript, while 
               maintaining robust backend services.
             </p>
             <p className="text-gray-700 leading-relaxed">
               I've worked on healthcare systems, logistics dashboards, and e-commerce platforms, 
               always prioritizing clean code, performance, and user experience. Currently available 
-              for freelance projects and remote opportunities.
+              for freelance projects, remote opportunities or local/hybrid ones within Ontario, Canada.
             </p>
           </div>
         </section>
@@ -217,7 +217,7 @@ function App() {
               LinkedIn
             </a>
             <a 
-              href="https://www.fiverr.com/YOUR_FIVERR_USERNAME"
+              href="https://www.fiverr.com/andrediniz1310"
               target="_blank"
               rel="noopener noreferrer"
               className="bg-green-500 hover:bg-green-600 text-white px-8 py-3 rounded-lg font-semibold transition-colors text-center inline-flex items-center justify-center gap-2"
@@ -246,7 +246,7 @@ function App() {
       <footer className="bg-gray-900 text-white py-8 mt-20">
         <div className="max-w-6xl mx-auto px-4 text-center">
           <p className="text-gray-400">
-            © 2024 André Martini Diniz. Built with React + TypeScript + Tailwind CSS
+            © 2026 André Martini Diniz. Built with React + TypeScript + Tailwind CSS
           </p>
           <p className="text-gray-500 text-sm mt-2">
             Based in Kitchener, ON | Available for remote opportunities
