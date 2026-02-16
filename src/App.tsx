@@ -55,6 +55,11 @@ function App() {
       </header>
 
       <main className="max-w-6xl mx-auto px-4 py-16">
+        <img 
+            src="/assets/profile.png" 
+            alt="André Martini Diniz"
+            className="w-32 h-32 rounded-full mx-auto mb-4"
+            />
         {/* Hero/About Section */}
         <section className="mb-20 animate-fade-in">
           <div className="text-center mb-8">
